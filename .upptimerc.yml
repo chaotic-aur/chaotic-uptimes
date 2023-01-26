@@ -7,31 +7,31 @@ sites:
     url: https://aur.chaotic.cx
   - name: The router
     url: https://geo-mirror.chaotic.cx
-  - name: br by UFSCar Alcateia
+  - name: br (UFSCar Alcateia)
     url: https://br-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - thotypous
-  - name: cdn by Fosshost
+  - name: cdn (Fosshost)
     url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - dr460nf1r3
-  - name: de by dr460nf1r3
+  - name: de (dr460nf1r3)
     url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - dr460nf1r3
-  - name: es-2 by Ícar
+  - name: es-2 (Ícar)
     url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - juxuanu
-  - name: sg by Freedif
+  - name: sg (Freedif)
     url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - dr460nf1r3
-  - name: us-fl by Alisson
+  - name: us-fl (Alisson)
     url: https://us-fl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - alissonlauffer
-  - name: us-mi by Technetium1
+  - name: us-mi (Technetium1)
     url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Technetium1
