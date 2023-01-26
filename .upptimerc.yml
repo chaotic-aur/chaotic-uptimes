@@ -14,9 +14,9 @@ sites:
   - name: "cdn @Fosshost"
     url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: "de @dr460nf1r3"
-    urL: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: "es-2 @Ícar"
-    urL: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - juxuanu
   - name: "sg @Freedif"
