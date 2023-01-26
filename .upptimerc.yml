@@ -7,9 +7,11 @@ sites:
     url: https://aur.chaotic.cx
   - name: The router
     url: https://geo-mirror.chaotic.cx
+  - name: de | dr460nf1r3
+    urL: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
 
 status-website:
-  baseUrl: /
+  baseUrl: /chaotic-uptimes
   cname: uptimes.chaotic.cx
   logoUrl: https://avatars.githubusercontent.com/u/66071775?s=400&u=99bc0536e7e77fe3e58839996600848f2d930ed5&v=4
   name: Chaotic-AUR Uptimes
