@@ -10,31 +10,31 @@ sites:
   - name: br | UFSCar Alcateia
     url: https://br-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - thotypous
+      - thotypous
   - name: cdn | Fosshost
     url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - dr460nf1r3
+      - dr460nf1r3
   - name: de | dr460nf1r3
     urL: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - dr460nf1r3
+      - dr460nf1r3
   - name: es-2 | Ícar
     urL: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - juxuanu
+      - juxuanu
   - name: sg | Freedif
     url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - dr460nf1r3
+      - dr460nf1r3
   - name: us-fl | Alisson
     url: https://us-fl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - alissonlauffer
+      - alissonlauffer
   - name: us-mi | Technetium1
     url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-    - Technetium1
+      - Technetium1
 
 status-website:
   baseUrl: /chaotic-uptimes
@@ -42,7 +42,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/66071775?s=400&u=99bc0536e7e77fe3e58839996600848f2d930ed5&v=4
   name: Chaotic-AUR Uptimes
   introTitle: Want to know which mirrors are up?
-  introMessage: This is the status page of Chaotic-AUR which shows current uptime status and historic data 🕵🏻‍♀️
+  introMessage: This is the status page of Chaotic-AUR which shows current uptime status and historic data.
   navbar:
     - title: Status
       href: /
