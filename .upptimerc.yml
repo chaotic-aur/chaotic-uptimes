@@ -51,8 +51,8 @@ status-website:
     - title: Homepage
       href: https://aur.chaotic.cx
 
-#commitMessages:
-#  commitAuthorName: "Chaotic-AUR Uptime Bot"
-#  commitAuthorEmail: "upptime@chaotic.cx"
+commitMessages:
+  commitAuthorName: "Chaotic-AUR Uptime Bot"
+  commitAuthorEmail: "upptime@chaotic.cx"
 
-#user-agent: chaotic-aur
+user-agent: chaotic-aur
