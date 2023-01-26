@@ -1,27 +1,58 @@
-# Change these first
-owner: dr460nf1r3 # Your GitHub organization or username, where this repository lives
-repo: chaotic-uptimes # The name of this repository
+owner: chaotic-aur
+repo: chaotic-uptimes
+assignees: dr460nf1r3
 
 sites:
   - name: Homepage
     url: https://aur.chaotic.cx
   - name: The router
     url: https://geo-mirror.chaotic.cx
+  - name: br | UFSCar Alcateia
+    url: https://br-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - thotypous
+  - name: cdn | Fosshost
+    url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - dr460nf1r3
+  - name: de | dr460nf1r3
+    urL: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - dr460nf1r3
+  - name: es-2 | Ícar
+    urL: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - juxuanu
+  - name: sg | Freedif
+    url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - dr460nf1r3
+  - name: us-fl | Alisson
+    url: https://us-fl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - alissonlauffer
+  - name: us-mi | Technetium1
+    url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+    - Technetium1
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptimes.chaotic.cx
-  # baseUrl: /your-repo-name
+  baseUrl: /
+  cname: uptimes.chaotic.cx
   logoUrl: https://avatars.githubusercontent.com/u/66071775?s=400&u=99bc0536e7e77fe3e58839996600848f2d930ed5&v=4
   name: Chaotic-AUR Uptimes
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Want to know which mirrors are up?
+  introMessage: This is the status page of Chaotic-AUR which shows current uptime status and historic data 🕵🏻‍♀️
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://aur.chaotic.cx
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Chaotic-AUR Uptime Bot"
+  commitAuthorEmail: "upptime@chaotic.cx"
+
+user-agent: chaotic-aur
