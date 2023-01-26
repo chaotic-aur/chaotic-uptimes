@@ -1,6 +1,6 @@
 # [📈 Live Status](https://uptimes.chaotic.cx): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Nico](https://dr460nf1r3.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Chaotic-AUR](https://aur.chaotic.cx), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/dr460nf1r3/chaotic-uptimes/workflows/Uptime%20CI/badge.svg)](https://github.com/dr460nf1r3/chaotic-uptimes/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/dr460nf1r3/chaotic-uptimes/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dr460nf1r3/chaotic-uptimes/actions?query=workflow%3A%22Response+Time+CI%22)
