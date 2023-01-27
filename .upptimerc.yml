@@ -1,27 +1,124 @@
-# Change these first
-owner: dr460nf1r3 # Your GitHub organization or username, where this repository lives
-repo: chaotic-uptimes # The name of this repository
+# Basic setup
+owner: chaotic-aur
+repo: chaotic-uptimes
+assignees:
+  - dr460nf1r3
+  - JustTNE
 
+# Our mirrors
 sites:
   - name: Homepage
     url: https://aur.chaotic.cx
   - name: The router
     url: https://geo-mirror.chaotic.cx
+  - name: bg (Sudoman)
+    url: https://bg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - thotypous
+  - name: br (UFSCar Alcateia)
+    url: https://br-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - thotypous
+  - name: br-2 (Alisson)
+    url: https://br-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - alissonlauffer
+  - name: ca (freebird54)
+    url: https://ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - alissonlauffer
+  - name: cdn (Fosshost)
+    url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: cdn-cn (Aliyun)
+    url: https://cdn-cn-mirror.chaotic.cx/
+  - name: de (dr460nf1r3)
+    url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - dr460nf1r3
+  - name: de-2 (Bangl)
+    url: https://de-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - BangL
+  - name: de-3 (itsTyrion)
+    url: https://de-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - itsTyrion
+  - name: de-4 (redglobuli)
+    url: https://de-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - redglobuli
+  - name: es (JKA Network)
+    url: https://es-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: es-2 (Ícar)
+    url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - juxuanu
+  - name: fr (IRC Nerds))
+    url: https://fr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Gontier-Julien
+  - name: fr-2 (Snowy)
+    url: https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Gontier-Julien
+  - name: in (Naman)
+    url: https://in-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Namanlp
+  - name: in-2 (Albony)
+    url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Albonycal
+  - name: in-2 (Albony)
+    url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Albonycal
+  - name: kr (silent-heigou)
+    url: https://kr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - silent_heigou
+  - name: secret (Garuda)
+    url: https://secret-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: sg (Freedif)
+    url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: us-fl (Alisson)
+    url: https://us-fl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - alissonlauffer
+  - name: us-mi (Technetium1)
+    url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - Technetium1
+  - name: us-ut (Ash)
+    url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - the-ashh
+  - name: us-va (Zoe)
+    url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - zoeruda
 
+# Theming of the statuspage
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptimes.chaotic.cx
-  # baseUrl: /your-repo-name
+  baseUrl: /
+  cname: uptimes.chaotic.cx
+  introMessage: This is the status page of Chaotic-AUR which shows current uptime status and historic data 🕵🏻‍♀️
+  introTitle: Want to know which mirrors are up?
   logoUrl: https://avatars.githubusercontent.com/u/66071775?s=400&u=99bc0536e7e77fe3e58839996600848f2d930ed5&v=4
   name: Chaotic-AUR Uptimes
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://aur.chaotic.cx
+  theme: night
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Configuration of the bots commits
+commitMessages:
+  commitAuthorName: "Chaotic-AUR Uptime Bot"
+  commitAuthorEmail: "upptime@chaotic.cx"
+
+# Recommended for GitHub API to work
+user-agent: chaotic-aur
