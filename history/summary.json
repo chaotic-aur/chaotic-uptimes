@@ -382,19 +382,19 @@
     "url": "https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate",
     "icon": "https://icons.duckduckgo.com/ip3/sg-mirror.chaotic.cx.ico",
     "slug": "sg-freedif",
-    "status": "down",
-    "uptime": "31.84%",
-    "uptimeDay": "31.84%",
-    "uptimeWeek": "31.84%",
-    "uptimeMonth": "31.84%",
-    "uptimeYear": "31.84%",
-    "time": 1131,
-    "timeDay": 1131,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 1131,
+    "status": "up",
+    "uptime": "30.36%",
+    "uptimeDay": "30.36%",
+    "uptimeWeek": "30.36%",
+    "uptimeMonth": "30.36%",
+    "uptimeYear": "30.36%",
+    "time": 1177,
+    "timeDay": 1177,
+    "timeWeek": 1177,
+    "timeMonth": 1177,
+    "timeYear": 1177,
     "dailyMinutesDown": {
-      "2023-01-27": 255
+      "2023-01-27": 274
     }
   },
   {
