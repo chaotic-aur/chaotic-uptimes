@@ -35,6 +35,11 @@ sites:
     url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Technetium1
+  
+  - name: in-2 (Albony.xyz)
+    url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - albonycal
 
 status-website:
   baseUrl: /
