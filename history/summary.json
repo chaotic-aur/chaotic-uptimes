@@ -387,18 +387,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg-mirror.chaotic.cx.ico",
     "slug": "sg-freedif",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "49.55%",
+    "uptimeDay": "49.55%",
+    "uptimeWeek": "49.55%",
+    "uptimeMonth": "49.55%",
+    "uptimeYear": "49.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-27": 51
+      "2023-01-27": 1
     }
   },
   {
