@@ -33,6 +33,9 @@ sites:
     url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - dr460nf1r3
+    expectedStatusCodes:
+      - 503
+      - 200
   - name: de-2 (Bangl)
     url: https://de-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
