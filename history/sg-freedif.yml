@@ -1,7 +1,7 @@
 url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-status: up
-code: 200
-responseTime: 1196
-lastUpdated: 2023-01-29T03:58:32.956Z
+status: down
+code: 503
+responseTime: 43
+lastUpdated: 2023-01-29T06:37:59.543Z
 startTime: Fri Jan 27 2023 10:52:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
