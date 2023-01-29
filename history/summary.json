@@ -292,19 +292,19 @@
     "url": "https://in-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate",
     "icon": "https://icons.duckduckgo.com/ip3/in-mirror.chaotic.cx.ico",
     "slug": "in-naman",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 0
+      "2023-01-29": 21
     }
   },
   {
@@ -385,18 +385,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg-mirror.chaotic.cx.ico",
     "slug": "sg-freedif",
     "status": "down",
-    "uptime": "84.69%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "84.69%",
-    "uptimeMonth": "84.69%",
-    "uptimeYear": "84.69%",
+    "uptime": "84.03%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "84.03%",
+    "uptimeMonth": "84.03%",
+    "uptimeYear": "84.03%",
     "time": 1095,
     "timeDay": 1188,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2023-01-29": 22,
+      "2023-01-29": 44,
       "2023-01-28": 66,
       "2023-01-27": 325
     }
