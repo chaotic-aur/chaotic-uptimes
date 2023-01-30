@@ -56,8 +56,6 @@ sites:
       - juxuanu
   - name: fr (IRC Nerds))
     url: https://fr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - Gontier-Julien
   - name: fr-2 (Snowy)
     url: https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
@@ -77,7 +75,7 @@ sites:
   - name: kr (silent-heigou)
     url: https://kr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
-      - silent_heigou
+      - silent-heigou
   - name: secret (Garuda)
     url: https://secret-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: sg (Freedif)
