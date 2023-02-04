@@ -68,10 +68,6 @@ sites:
     url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Albonycal
-  - name: in-2 (Albony)
-    url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - Albonycal
   - name: kr (silent-heigou)
     url: https://kr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
