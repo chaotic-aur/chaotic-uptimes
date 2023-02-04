@@ -90,6 +90,10 @@ sites:
     url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Technetium1
+  - name: us-tx (xstefen)
+    url: https://us-tx-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - xstefen
   - name: us-ut (Ash)
     url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
