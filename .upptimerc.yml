@@ -38,8 +38,6 @@ sites:
       - 200
   - name: de-2 (Bangl)
     url: https://de-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - BangL
   - name: de-3 (itsTyrion)
     url: https://de-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
