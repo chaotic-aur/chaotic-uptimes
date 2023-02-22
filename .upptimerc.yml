@@ -58,6 +58,10 @@ sites:
     url: https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Gontier-Julien
+  - name: gr (vmmaniac)
+    url: https://gr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - vmmaniac
   - name: in (Naman)
     url: https://in-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
