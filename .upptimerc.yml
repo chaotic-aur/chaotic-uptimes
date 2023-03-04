@@ -11,6 +11,8 @@ sites:
     url: https://aur.chaotic.cx
   - name: The router
     url: https://geo-mirror.chaotic.cx
+  - name: cdn (Cloudflare R2)
+    url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: bg (Sudoman)
     url: https://bg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
@@ -25,10 +27,6 @@ sites:
       - alissonlauffer
   - name: ca (freebird54)
     url: https://ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-  - name: cdn (Fosshost)
-    url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-  - name: cdn-cn (Aliyun)
-    url: https://cdn-cn-mirror.chaotic.cx/
   - name: de (dr460nf1r3)
     url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
