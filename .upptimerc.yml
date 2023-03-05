@@ -121,8 +121,5 @@ commitMessages:
   commitAuthorName: "Chaotic-AUR Uptime Bot"
   commitAuthorEmail: "upptime@chaotic.cx"
 
-# Run on our self hosted runners if they are available
-runner: "[self-hosted, ubuntu-20.04]"
-
 # Recommended for GitHub API to work
 user-agent: chaotic-aur
