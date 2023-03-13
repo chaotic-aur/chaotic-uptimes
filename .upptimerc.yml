@@ -115,6 +115,7 @@ status-website:
     - title: Homepage
       href: https://aur.chaotic.cx
   theme: night
+  singleCommit: true
 
 # Configuration of the bots commits
 commitMessages:
@@ -123,3 +124,6 @@ commitMessages:
 
 # Recommended for GitHub API to work
 user-agent: chaotic-aur
+
+workflowSchedule:
+  uptime: "0 0 1 1 *"
