@@ -31,8 +31,10 @@ sites:
     url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: cdn-cn (Aliyun)
     url: https://cdn-cn-mirror.chaotic.cx/
-  - name: cl (makzk)
+  - name: cl (jkcgs)
     url: https://cl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - jkcgs
   - name: de (dr460nf1r3)
     url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
