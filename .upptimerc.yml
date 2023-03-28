@@ -27,6 +27,12 @@ sites:
       - alissonlauffer
   - name: ca (freebird54)
     url: https://ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: cdn (Fosshost)
+    url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: cdn-cn (Aliyun)
+    url: https://cdn-cn-mirror.chaotic.cx/
+  - name: cl (makzk)
+    url: https://cl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: de (dr460nf1r3)
     url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
