@@ -249,7 +249,7 @@
     "slug": "de-2-bangl",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "39.77%",
+    "uptimeDay": "39.80%",
     "uptimeWeek": "89.52%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "98.66%",
@@ -371,7 +371,7 @@
     "timeMonth": 189,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-03-28": 1075,
+      "2023-03-28": 1076,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
