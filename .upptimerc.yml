@@ -55,10 +55,8 @@ sites:
     url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - juxuanu
-  - name: fr (IRC Nerds))
+  - name: fr (Snowy)
     url: https://fr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-  - name: fr-2 (Snowy)
-    url: https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Gontier-Julien
   - name: gr (vmmaniac)
@@ -147,12 +145,12 @@ sites:
     url:  https://cl-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - fr-3
-    url:  https://fr-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - fr-2
+    url:  https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - fr-4
-    url:  https://fr-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - fr-3
+    url:  https://fr-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - de-5
