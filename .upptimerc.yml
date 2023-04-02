@@ -173,10 +173,6 @@ sites:
     url:  https://in-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - in-4
-    url:  https://kr-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - a0xz
   - name: Silky.Network - in-5
     url:  https://in-5-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
@@ -195,6 +191,10 @@ sites:
       - a0xz
   - name: Silky.Network - kr-2
     url:  https://kr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
+  - name: Silky.Network - kr-4
+    url:  https://kr-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - mx
