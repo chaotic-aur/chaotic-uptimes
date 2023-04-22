@@ -137,8 +137,8 @@ sites:
     url:  https://ca-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - ch-2
-    url:  https://ch-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - ch
+    url:  https://ch-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - cl-2
@@ -181,6 +181,14 @@ sites:
     url:  https://in-6-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
+  - name: Silky.Network - in-7
+    url:  https://in-7-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
+  - name: Silky.Network - it
+    url:  https://it-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
   - name: Silky.Network - jp
     url:  https://jp-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
@@ -193,16 +201,20 @@ sites:
     url:  https://kr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - kr-4
-    url:  https://kr-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - kr-3
+    url:  https://kr-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - mx
     url:  https://mx-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - nl-2
-    url:  https://nl-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - mx-2
+    url:  https://mx-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
+  - name: Silky.Network - nl
+    url:  https://nl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - sa
@@ -221,12 +233,24 @@ sites:
     url:  https://uk-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
+  - name: Silky.Network - uk-3
+    url:  https://uk-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
+  - name: Silky.Network - us-az
+    url:  https://us-az-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
+  - name: Silky.Network - us-az-2
+    url:  https://us-az-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
   - name: Silky.Network - us-ca
     url:  https://us-ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
-  - name: Silky.Network - us-tx-2
-    url:  https://us-tx-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+  - name: Silky.Network - us-va-2
+    url:  https://us-va-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
   - name: Silky.Network - za
