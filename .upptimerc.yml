@@ -249,6 +249,10 @@ sites:
     url:  https://us-ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
+  - name: Silky.Network - us-mi-2
+    url:  https://us-mi-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - a0xz
   - name: Silky.Network - us-va-2
     url:  https://us-va-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
