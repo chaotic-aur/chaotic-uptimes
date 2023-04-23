@@ -89,6 +89,10 @@ sites:
     url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Technetium1
+  - name: us-ny (Zoe)
+    url: https://us-ny-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    assignees:
+      - zoeruda
   - name: us-tx (xstefen)
     url: https://us-tx-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
@@ -97,10 +101,6 @@ sites:
     url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - the-ashh
-  - name: us-va (Zoe)
-    url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - zoeruda
   - name: Silky.Network - ae
     url:  https://ae-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
