@@ -310,6 +310,7 @@ sites:
     assignees:
       - a0xz
   - name: Silky.Network - us-mi-2
+    maxResponseTime: 120000
     url:  https://us-mi-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - a0xz
