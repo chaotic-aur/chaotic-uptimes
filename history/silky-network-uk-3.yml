@@ -1,7 +1,7 @@
 url: https://uk-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-status: down
-code: 503
-responseTime: 57
-lastUpdated: 2023-05-04T09:56:20.521Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2023-05-04T10:33:41.128Z
 startTime: Sat Apr 22 2023 15:02:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
