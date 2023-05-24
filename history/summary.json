@@ -790,7 +790,7 @@
     "timeMonth": 111,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-05-24": 79,
+      "2023-05-24": 82,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -1773,7 +1773,7 @@
     "slug": "silky-network-us-ca",
     "status": "down",
     "uptime": "93.29%",
-    "uptimeDay": "90.94%",
+    "uptimeDay": "90.71%",
     "uptimeWeek": "96.71%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "93.29%",
@@ -1783,7 +1783,7 @@
     "timeMonth": 273,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-05-24": 2,
+      "2023-05-24": 5,
       "2023-05-23": 128,
       "2023-05-22": 31,
       "2023-05-20": 32,
