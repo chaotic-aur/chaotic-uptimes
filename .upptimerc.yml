@@ -67,9 +67,9 @@ sites:
     url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - juxuanu
-  - name: es-3 (Ícar)
+  - name: es-4 (Ícar)
     maxResponseTime: 120000
-    url: https://es-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://es-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - juxuanu
   - name: fr (Snowy)
