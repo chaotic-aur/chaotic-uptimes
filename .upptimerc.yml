@@ -356,8 +356,8 @@ status-website:
 
 # Configuration of the bots commits
 commitMessages:
-  commitAuthorName: "Chaotic-AUR Uptime Bot"
-  commitAuthorEmail: "upptime@chaotic.cx"
+  commitAuthorName: "Chaotic Temeraire"
+  commitAuthorEmail: "actions@chaotic.cx"
 
 # Recommended for GitHub API to work
 user-agent: chaotic-aur
