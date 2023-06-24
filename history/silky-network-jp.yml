@@ -1,7 +1,7 @@
 url: https://jp-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-status: down
-code: 503
-responseTime: 52
-lastUpdated: 2023-06-24T09:21:53.909Z
+status: up
+code: 200
+responseTime: 867
+lastUpdated: 2023-06-24T09:28:54.944Z
 startTime: Thu Mar 30 2023 09:53:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
