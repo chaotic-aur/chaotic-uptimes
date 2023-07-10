@@ -92,11 +92,6 @@ sites:
     url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - Albonycal
-  - name: in-8 (vishmak)
-    maxResponseTime: 120000
-    url: https://in-8-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - vishmak
   - name: kr (silent-heigou)
     maxResponseTime: 120000
     url: https://kr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
