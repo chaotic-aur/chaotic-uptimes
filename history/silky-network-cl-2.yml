@@ -1,7 +1,7 @@
 url: https://cl-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-status: down
-code: 503
-responseTime: 136
-lastUpdated: 2023-07-13T23:31:47.234Z
+status: up
+code: 200
+responseTime: 767
+lastUpdated: 2023-07-13T23:38:24.406Z
 startTime: Thu Mar 30 2023 09:53:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
