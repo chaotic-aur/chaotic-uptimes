@@ -42,11 +42,6 @@ sites:
     url: https://cl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
     assignees:
       - jkcgs
-  - name: de (dr460nf1r3)
-    maxResponseTime: 120000
-    url: https://de-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
-    assignees:
-      - dr460nf1r3
   - name: de-2 (Bangl)
     maxResponseTime: 120000
     url: https://de-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
