@@ -8,323 +8,257 @@ assignees:
 # Our mirrors
 sites:
   - name: Homepage
-    maxResponseTime: 120000
     url: https://aur.chaotic.cx
   - name: The router
-    maxResponseTime: 120000
     url: https://geo-mirror.chaotic.cx
   - name: cdn (Cloudflare R2)
-    maxResponseTime: 120000
     url: https://cdn-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
   - name: bg (Sudoman)
-    maxResponseTime: 120000
-    url: https://bg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://shantitribe.eu
     assignees:
       - thotypous
   - name: br (UFSCar Alcateia)
-    maxResponseTime: 120000
-    url: https://br-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: mirror.ufscar.br
     assignees:
       - thotypous
   - name: br-2 (Alisson)
-    maxResponseTime: 120000
-    url: https://br-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: br-mirror.amanoteam.com
     assignees:
       - alissonlauffer
   - name: ca (freebird54)
-    maxResponseTime: 120000
-    url: https://ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://birdrepo.ddns.net
   - name: cdn-cn (Aliyun)
-    maxResponseTime: 120000
     url: https://cdn-cn-mirror.chaotic.cx/
   - name: cl (jkcgs)
-    maxResponseTime: 120000
-    url: https://cl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirror.owo.cl
     assignees:
       - jkcgs
   - name: de-2 (Bangl)
-    maxResponseTime: 120000
-    url: https://de-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaotic.bangl.de
   - name: de-3 (itsTyrion)
-    maxResponseTime: 120000
-    url: https://de-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://v.itstyrion.de
     assignees:
       - itsTyrion
   - name: de-4 (redglobuli)
-    maxResponseTime: 120000
-    url: https://de-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaotic.pl4ygr0und.de
     assignees:
       - redglobuli
   - name: es (JKA Network)
-    url: https://es-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://repo.jkanetwork.com
   - name: es-2 (Ícar)
-    maxResponseTime: 120000
-    url: https://es-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaotic.icarns.xyz
     assignees:
       - juxuanu
   - name: es-4 (Ícar)
-    maxResponseTime: 120000
-    url: https://es-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaotic-2.icarns.xyz
     assignees:
       - juxuanu
   - name: fr (Snowy)
-    maxResponseTime: 120000
-    url: https://fr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://saturn.dedyn.io
     assignees:
       - Gontier-Julien
   - name: gr (vmmaniac)
-    maxResponseTime: 120000
-    url: https://gr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirrors.sytes.net
     assignees:
       - vmmaniac
   - name: in (Naman)
-    maxResponseTime: 120000
-    url: https://in-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://in-mirror.garudalinux.org
     assignees:
       - Namanlp
   - name: in-2 (Albony)
-    maxResponseTime: 120000
-    url: https://in-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirror.albony.xyz
     assignees:
       - Albonycal
   - name: kr (silent-heigou)
-    maxResponseTime: 120000
-    url: https://kr-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirror.heigou.pe.kr
     assignees:
       - silent-heigou
   - name: secret (Garuda)
-    maxResponseTime: 120000
-    url: https://secret-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://builds.garudalinux.org
   - name: sg (Freedif)
-    maxResponseTime: 120000
-    url: https://sg-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirror.freedif.org
     assignees:
       - KaribuTW
   - name: us-fl (Alisson)
-    maxResponseTime: 120000
-    url: https://us-fl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://us-fl-mirror.amanoteam.com
     assignees:
       - alissonlauffer
   - name: us-mi (Technetium1)
-    maxResponseTime: 120000
-    url: https://us-mi-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaoticmirror.com
     assignees:
       - Technetium1
   - name: us-ny (Zoe)
-    url: https://us-ny-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://us-ny-mirror.garudalinux.org
     assignees:
       - zoeruda
   - name: us-tx (xstefen)
-    maxResponseTime: 120000
-    url: https://us-tx-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://chaotic.xstefen.dev
     assignees:
       - xstefen
   - name: us-ut (Ash)
-    maxResponseTime: 120000
-    url: https://us-ut-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mirror.theash.xyz
     assignees:
       - the-ashh
   - name: Silky.Network - ae
-    maxResponseTime: 120000
-    url:  https://ae-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://dxb-ae-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - ae-2
-    maxResponseTime: 120000
-    url:  https://ae-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://dxb1-ae-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - ae-3
-    maxResponseTime: 120000
-    url:  https://ae-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://auh-ae-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - au
-    maxResponseTime: 120000
-    url:  https://au-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://syd-au-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - au-2
-    maxResponseTime: 120000
-    url:  https://au-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mel-au-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - br-3
-    maxResponseTime: 120000
-    url:  https://br-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://vcp-br-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - br-4
-    maxResponseTime: 120000
-    url:  https://br-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://gru-br-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - ca-2
-    maxResponseTime: 120000
-    url:  https://ca-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://yyz-ca-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - ca-3
-    maxResponseTime: 120000
-    url:  https://ca-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://yul-ca-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - ch
-    maxResponseTime: 120000
-    url:  https://ch-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://zrh-ch-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - cl-2
-    maxResponseTime: 120000
-    url:  https://cl-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://scl-cl-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - fr-2
-    maxResponseTime: 120000
-    url:  https://fr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://cdg-fr-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - fr-3
-    maxResponseTime: 120000
-    url:  https://fr-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mrs-fr-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - de-5
-    maxResponseTime: 120000
-    url:  https://de-5-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://fra-de-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - de-6
-    maxResponseTime: 120000
-    url:  https://de-6-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://fra1-de-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - es-3
-    maxResponseTime: 120000
-    url:  https://es-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mad-es-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - il
-    maxResponseTime: 120000
-    url:  https://il-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://jrs-il-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - in-4
-    maxResponseTime: 120000
-    url:  https://in-4-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://bom-in-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - in-5
-    maxResponseTime: 120000
-    url:  https://in-5-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://bom1-in-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - in-6
-    maxResponseTime: 120000
-    url:  https://in-6-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://hyd-in-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - in-7
-    maxResponseTime: 120000
-    url:  https://in-7-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://hyd1-in-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - it
-    maxResponseTime: 120000
-    url:  https://it-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mxp-it-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - jp
-    maxResponseTime: 120000
-    url:  https://jp-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://nrt-jp-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - jp-2
-    maxResponseTime: 120000
-    url:  https://jp-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://itm-jp-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - kr-2
-    maxResponseTime: 120000
-    url:  https://kr-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://icn-kr-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - kr-3
-    maxResponseTime: 120000
-    url:  https://kr-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://icn-kr-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - mx
-    maxResponseTime: 120000
-    url:  https://mx-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://qro-mx-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - mx-2
-    maxResponseTime: 120000
-    url:  https://mx-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://mex-mx-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - nl
-    maxResponseTime: 120000
-    url:  https://nl-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://ams-nl-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - sa
-    maxResponseTime: 120000
-    url:  https://sa-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://jed-sa-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - se
-    maxResponseTime: 120000
-    url:  https://se-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://arn-se-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - uk
-    maxResponseTime: 120000
-    url:  https://uk-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://lhr-uk-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - uk-2
-    maxResponseTime: 120000
-    url:  https://uk-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://man-uk-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - uk-3
-    maxResponseTime: 120000
-    url:  https://uk-3-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://cwl-uk-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - us-az
-    maxResponseTime: 120000
-    url:  https://us-az-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://phx-us-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - us-az-2
-    maxResponseTime: 120000
-    url:  https://us-az-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://phx1-us-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - us-ca
-    maxResponseTime: 120000
-    url:  https://us-ca-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://sjc-us-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - us-mi-2
-    maxResponseTime: 120000
-    url:  https://us-mi-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://ord-us-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - us-va-2
-    maxResponseTime: 120000
-    url:  https://us-va-2-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://iad-us-mirror.silky.network
     assignees:
       - a0xz
   - name: Silky.Network - za
-    maxResponseTime: 120000
-    url:  https://za-mirror.chaotic.cx/no-failover/chaotic-aur/lastupdate
+    url: https://jnb-za-mirror.silky.network
     assignees:
       - a0xz
-
 
 # Theming of the statuspage
 status-website:
