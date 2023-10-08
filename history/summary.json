@@ -303,7 +303,7 @@
     "status": "up",
     "uptime": "91.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.30%",
+    "uptimeWeek": "89.37%",
     "uptimeMonth": "72.88%",
     "uptimeYear": "91.66%",
     "time": 333,
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-10-08": 597,
+      "2023-10-08": 605,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -593,7 +593,7 @@
     "uptime": "88.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.35%",
-    "uptimeMonth": "63.02%",
+    "uptimeMonth": "63.04%",
     "uptimeYear": "88.40%",
     "time": 1030,
     "timeDay": 0,
@@ -1020,7 +1020,7 @@
     "status": "up",
     "uptime": "89.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.54%",
+    "uptimeWeek": "80.62%",
     "uptimeMonth": "35.85%",
     "uptimeYear": "89.44%",
     "time": 0,
@@ -1608,7 +1608,7 @@
     "timeMonth": 120,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-10-08": 598,
+      "2023-10-08": 605,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -2234,10 +2234,10 @@
     "url": "https://gru-br-mirror.silky.network",
     "icon": "https://icons.duckduckgo.com/ip3/gru-br-mirror.silky.network.ico",
     "slug": "silky-network-br-4",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "37.60%",
-    "uptimeWeek": "67.82%",
+    "uptimeDay": "37.39%",
+    "uptimeWeek": "67.79%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "98.51%",
     "time": 1459,
@@ -2246,7 +2246,7 @@
     "timeMonth": 3798,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2023-10-08": 446,
+      "2023-10-08": 449,
       "2023-10-07": 597,
       "2023-10-06": 1016,
       "2023-10-05": 718,
@@ -2259,7 +2259,7 @@
       "2023-09-28": 219,
       "2023-09-27": 112,
       "2023-09-26": 378,
-      "2023-09-25": 131
+      "2023-09-25": 126
     }
   },
   {
@@ -2279,7 +2279,7 @@
     "timeMonth": 0,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-08": 598,
+      "2023-10-08": 606,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -2905,7 +2905,7 @@
     "timeMonth": 0,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-10-08": 599,
+      "2023-10-08": 606,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -3587,7 +3587,7 @@
     "status": "up",
     "uptime": "87.66%",
     "uptimeDay": "96.17%",
-    "uptimeWeek": "73.08%",
+    "uptimeWeek": "73.16%",
     "uptimeMonth": "32.45%",
     "uptimeYear": "87.66%",
     "time": 586,
