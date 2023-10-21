@@ -21,10 +21,6 @@ sites:
     url: mirror.ufscar.br
     assignees:
       - thotypous
-  - name: br-2 (Alisson)
-    url: br-mirror.amanoteam.com
-    assignees:
-      - alissonlauffer
   - name: ca (freebird54)
     url: https://birdrepo.ddns.net
   - name: cdn-cn (Aliyun)
@@ -79,18 +75,10 @@ sites:
     url: https://mirror.freedif.org
     assignees:
       - KaribuTW
-  - name: us-fl (Alisson)
-    url: https://us-fl-mirror.amanoteam.com
-    assignees:
-      - alissonlauffer
   - name: us-mi (Technetium1)
     url: https://chaoticmirror.com
     assignees:
       - Technetium1
-  - name: us-ny (Zoe)
-    url: https://us-ny-mirror.garudalinux.org
-    assignees:
-      - zoeruda
   - name: us-tx (xstefen)
     url: https://chaotic.xstefen.dev
     assignees:
