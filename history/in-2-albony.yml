@@ -1,7 +1,7 @@
 url: https://mirror.albony.xyz
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2023-10-20T23:09:26.630Z
+status: down
+code: 500
+responseTime: 634
+lastUpdated: 2023-10-21T03:04:35.259Z
 startTime: 2023-01-27T10:52:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
