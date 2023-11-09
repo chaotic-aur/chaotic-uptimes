@@ -426,7 +426,7 @@
     "uptime": "68.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.53%",
+    "uptimeMonth": "89.54%",
     "uptimeYear": "68.72%",
     "time": 771,
     "timeDay": 0,
@@ -991,10 +991,10 @@
     "url": "https://in-mirror.garudalinux.org",
     "icon": "https://icons.duckduckgo.com/ip3/in-mirror.garudalinux.org.ico",
     "slug": "in-naman",
-    "status": "up",
+    "status": "down",
     "uptime": "90.63%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "94.95%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "94.94%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "90.63%",
     "time": 0,
@@ -1003,7 +1003,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-09": 58,
+      "2023-11-09": 59,
       "2023-11-08": 5,
       "2023-11-04": 84,
       "2023-11-03": 348,
@@ -1093,8 +1093,7 @@
       "2023-06-18": 31,
       "2023-06-16": 7,
       "2023-06-10": 7,
-      "2023-06-06": 137,
-      "2023-06-05": 19
+      "2023-06-06": 137
     }
   },
   {
