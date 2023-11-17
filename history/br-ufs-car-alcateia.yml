@@ -1,7 +1,7 @@
 url: mirror.ufscar.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-17T23:16:19.203Z
+status: up
+code: 200
+responseTime: 379
+lastUpdated: 2023-11-17T23:21:13.656Z
 startTime: 2023-01-27T10:52:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
