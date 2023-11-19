@@ -1110,10 +1110,10 @@
     "url": "https://mirror.albony.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "in-2-albony",
-    "status": "up",
+    "status": "down",
     "uptime": "89.51%",
-    "uptimeDay": "83.33%",
-    "uptimeWeek": "97.62%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "89.51%",
     "time": 1084,
@@ -1122,7 +1122,7 @@
     "timeMonth": 1236,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2023-11-19": 241,
+      "2023-11-19": 242,
       "2023-11-07": 19,
       "2023-10-31": 26,
       "2023-10-25": 222,
@@ -1184,8 +1184,7 @@
       "2023-07-14": 105,
       "2023-07-13": 7,
       "2023-07-10": 13,
-      "2023-07-06": 25,
-      "2023-07-02": 7
+      "2023-07-06": 25
     }
   },
   {
@@ -1196,8 +1195,8 @@
     "status": "down",
     "uptime": "95.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "16.01%",
-    "uptimeMonth": "80.67%",
+    "uptimeWeek": "15.95%",
+    "uptimeMonth": "80.66%",
     "uptimeYear": "95.85%",
     "time": 1596,
     "timeDay": 0,
@@ -1205,7 +1204,7 @@
     "timeMonth": 1686,
     "timeYear": 1596,
     "dailyMinutesDown": {
-      "2023-11-19": 932,
+      "2023-11-19": 939,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
