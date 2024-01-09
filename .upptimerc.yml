@@ -61,6 +61,10 @@ sites:
     url: https://mirror.albony.xyz
     assignees:
       - Albonycal
+  - name: in-4 (Albony)
+    url: http://mirror.maa.albony.in
+    assignees:
+      - Albonycal
   - name: kr (silent-heigou)
     url: https://mirror.heigou.pe.kr
     assignees:
