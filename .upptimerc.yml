@@ -49,6 +49,8 @@ sites:
     url: https://chaotic-2.icarns.xyz
     assignees:
       - juxuanu
+  - name: fr (Yael)
+    url: https://chaotic-mirror.bbq.ovh
   - name: gr (vmmaniac)
     url: https://mirrors.sytes.net
     assignees:
